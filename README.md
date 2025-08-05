@@ -54,7 +54,8 @@ You can view the live version of this Virtual CV hosted on GitHub Pages here:
 Feel free to connect with me through the following channels:
 
 * **Email:**[vumae19@gmail.com](mailto:vumae19@gmail.com)
-* **LinkedIn:**[https://www.linkedin.com/in/vuma-elariu-3859b12a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* **LinkedIn:**[My linkedin Profile
+  (https://www.linkedin.com/in/vuma-elariu-3859b12a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
  Profile](https://github.com/Vumae19)
 * **GitHub:** [My GitHub Profile](https://github.com/Vumae19)
 
