@@ -46,8 +46,7 @@ To view this virtual CV project locally on your machine:
 
 You can view the live version of this Virtual CV hosted on GitHub Pages here:
 
-**[https://Vumae19.github.io](https://github.com/Vumae19)**
-
+**[https://Vumae19.github.io](https://vumae19.github.io/CurriculumVitae/)**
 
 ## Contact
 
